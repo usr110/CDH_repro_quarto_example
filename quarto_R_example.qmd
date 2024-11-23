@@ -4,6 +4,7 @@ author: "Ali Abbas"
 format: 
   html:
     code-fold: true
+    embed-resources: true
 date: "25/11/2024"
 ---
 
