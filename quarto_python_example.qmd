@@ -1,5 +1,5 @@
 ---
-title: "Quarto example article"
+title: "Quarto example in Python"
 author: "Ali Abbas"
 format:
     html:
