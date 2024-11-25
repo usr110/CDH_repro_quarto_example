@@ -1,11 +1,12 @@
 ---
 title: "Quarto example in R"
 author: "Ali Abbas"
+date: "`r Sys.time()`"
+date-format: "DD MMMM, YYYY"
 format: 
   html:
     code-fold: true
     embed-resources: true
-date: "25/11/2024"
 ---
 
 ## Air Quality

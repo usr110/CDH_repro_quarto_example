@@ -1,6 +1,9 @@
 ---
 title: "Quarto example in Python"
 author: "Ali Abbas"
+date: "25-11-2024"
+date-format: "[{{< meta date-val >}}]"
+date-val: 25-11-2024
 format:
     html:
       code-fold: true
